@@ -20,7 +20,7 @@ This is a simple and intuitive web application built with the MERN stack (MongoD
   <li> Frontend: React.js, Tailwind CSS </li>
   <li>Backend: Node.js, Express.js</li>
   <li>Database: MongoDB</li>
-  <li>harting: @mui/x-charts for pie charts</li>
+  <li>Charting: @mui/x-charts for pie charts</li>
 </ol>
 
 
